@@ -1,0 +1,16 @@
+{
+"companyName": "IronHulledStudio",
+"productName": "MortalEngines",
+"productVersion": "0.1",
+"dataUrl": "MortalEngines 0.2 WebGL.data.unityweb",
+"wasmCodeUrl": "MortalEngines 0.2 WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "MortalEngines 0.2 WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFF60",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.6f1"
+}
